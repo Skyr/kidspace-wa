@@ -17,7 +17,7 @@
  </tileset>
  <layer id="7" name="website_credits" width="100" height="100">
   <properties>
-   <property name="openWebsite" value="http://fav.me/d6321qy"/>
+   <property name="openWebsite" value="https://www.deviantart.com/chaoticcherrycake/journal/Credits-for-Tiles-367931482"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
